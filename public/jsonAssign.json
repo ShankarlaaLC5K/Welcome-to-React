@@ -1,0 +1,34 @@
+[
+    {
+        "gameName":"Sifu",
+        "publishers":"Sloclap",
+        "Platform":"PC,PS5,X Box Series",
+        "image":"https://upload.wikimedia.org/wikipedia/en/e/e3/Sifu_cover_art.jpg",
+        "rating":"4.8",
+        "description":"Sifu is a beat 'em up video game developed and published by French studio Sloclap. Set in modern-day China, players control the child of a martial arts school's sifu who seeks revenge on those responsible for their father's death"
+    },
+    {
+        "gameName":"Forza Horizon 5",
+        "publishers":"X-Box",
+        "Platform":"PC,PS5,X Box Series",
+        "image":"https://upload.wikimedia.org/wikipedia/en/8/86/Forza_Horizon_5_cover_art.jpg",
+        "rating":"4.7",
+        "description":"Forza Horizon 5 is a racing video game developed by Playground Games and published by Xbox Game Studios. It is the fifth Forza Horizon title and twelfth main instalment in the Forza series. The game is set in a fictionalised representation of Mexico"
+    },
+    {
+        "gameName":"PUBG Mobile",
+        "publishers":"KRAFTON",
+        "Platform":"Mobile",
+        "image":"https://upload.wikimedia.org/wikipedia/en/4/44/PlayerUnknown%27s_Battlegrounds_Mobile.webp",
+        "rating":"4.9",
+        "description":"PUBG Mobile is a free-to-play battle royale video game developed by LightSpeed & Quantum Studio, a division of Tencent Games. It is a mobile game adaptation of PUBG: Battlegrounds. It was initially released for Android and iOS on 19 March 2018."
+    },
+    {
+        "gameName":"Need For Speed",
+        "publishers":"Electronic Arts",
+        "Platform":"PC,PS5,X Box Series",
+        "image":"https://upload.wikimedia.org/wikipedia/en/8/8e/Need_for_Speed_Most_Wanted_Box_Art.jpg",
+        "rating":"5.0",
+        "description":"Need for Speed is a racing game franchise published by Electronic Arts and currently developed by Criterion Games, the developers of Burnout. The series generally centers around illegal street racing and tasks players to complete various types of races while evading the local law enforcement in police pursuits."
+    }
+]

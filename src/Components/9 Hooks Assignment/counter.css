@@ -1,0 +1,13 @@
+.counterback{
+    background-image: url("https://www.callcentrehelper.com/images/stories/2015/10/calculating-graphs-760.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 10%;
+
+}
+
+
+.countbutton{
+    width:15%;
+}

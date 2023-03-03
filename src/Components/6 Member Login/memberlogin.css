@@ -1,0 +1,52 @@
+.backo{
+    background-image:-webkit-linear-gradient(left,#8400cd,#b700c4); 
+    min-height:100vh;
+    
+}
+
+.whito{
+    background-color:white;
+    border-radius: 25px;
+    min-height:100%;
+
+}
+
+.lap{
+    background-color: #f2f2f2;
+    border-radius: 50%;
+    width:30%;
+    height:30%;
+}
+.log{
+    background-color: #f2f2f2;
+    border-style:none;
+    border-color: #f2f2f2;
+    width:90%;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.log1
+{
+    background-color: #20cc44;
+    border-radius: 50px;
+    width:100%;
+    border-color: #20cc44;
+    color:white;
+    padding:10px;
+}
+.user{
+    color:#20cc44;
+    text-decoration: none;
+}
+
+.mem{
+    font-weight: 700;
+}
+
+.newlap{
+    background-color: #f2f2f2;
+    border-radius: 50px;
+    padding:8px;
+
+}

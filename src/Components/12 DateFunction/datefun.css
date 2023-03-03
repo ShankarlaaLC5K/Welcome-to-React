@@ -1,0 +1,9 @@
+.tablealign{
+text-align:center;
+margin-right: auto;
+margin-left: auto;
+justify-content: center;
+background-image: url("https://img.freepik.com/premium-vector/flat-calendar-with-mark-date_186930-1049.jpg?w=740");
+min-height: 100vh;
+background-size: cover;
+}

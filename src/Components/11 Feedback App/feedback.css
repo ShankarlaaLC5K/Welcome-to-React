@@ -1,0 +1,24 @@
+.feedbackbody{
+    background-image:-webkit-linear-gradient(left,#feecec,#f8bcbe);
+    min-height: 100vh;
+}
+
+
+.feedbackfont{
+    text-decoration: none;
+}
+
+.feedf:hover{
+    background-color:red;
+    border-radius: 20px;
+
+}
+.feedm:hover{
+    background-color:yellow;
+    border-radius: 20px;
+}
+
+.feedl:hover{
+    background-color:lime;
+    border-radius: 20px;
+}

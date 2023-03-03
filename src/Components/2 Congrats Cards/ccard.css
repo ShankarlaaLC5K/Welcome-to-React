@@ -1,0 +1,20 @@
+.bgco{
+    background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+    text-align: center;
+    justify-content: center;
+    height:100vh;
+  }
+  .blued{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:2%;
+    padding:5%;
+    background-color: #cffbfe;
+  
+  }
+  
+  .watch{
+    width:20%;
+    height:20%;
+    border-radius: 50%;
+  }

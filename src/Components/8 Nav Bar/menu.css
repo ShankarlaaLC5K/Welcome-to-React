@@ -1,0 +1,10 @@
+.navalign{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.nav-link:hover{
+    background-color:aquamarine;
+    border-radius: 10px;
+}

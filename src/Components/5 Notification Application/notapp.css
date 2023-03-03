@@ -1,0 +1,18 @@
+.noti{
+    font-weight: 700;
+}
+nav{
+    list-style-type: none;
+
+}
+
+.wid{
+margin-left: auto;
+margin-right: auto;
+width:50%;
+}
+
+
+.left{
+    text-align: left;
+}
